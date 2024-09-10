@@ -3,7 +3,7 @@
 - Author: Roberto Zegers
 - License: BSD 3-Clause
 
-#This ROS package serves as a training repository for the Git and GitHub course.  
+# This ROS package serves as a training repository for the Git and GitHub course.  
 
 It consists of a collection of virtual race tracks that display as markers in RVIZ.  
 
